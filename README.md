@@ -24,7 +24,7 @@
 * **Variation Inflation Factor(VIF)**
 
 ### Plots in the model:
-* **P-P Plott**
+* **P-P Plot**
 * **Histogram**
 * **Correlation Heat Map**
 * **Stacked Bar Graph**
