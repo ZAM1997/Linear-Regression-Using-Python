@@ -17,11 +17,11 @@
 * **The model is just intended for educational purposes and cannot be used for any business decisions**
 
 ### Metrics Used
-* **R sqaure
-* **P-value
-* **Z-score
-* **P-P Plot
-* **Variation Inflation Factor(VIF)
+* **R sqaure**
+* **P-value**
+* **Z-score**
+* **P-P Plot**
+* **Variation Inflation Factor(VIF)**
 
 ### Plots in the model:
 * **P-P Plott**
